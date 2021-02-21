@@ -1,0 +1,2 @@
+# 3D_Print_Xbox_Controller_Stand
+基于T站模型修改的Xbox手柄支架，可以在原来放手柄的基础上放置无线接收器（二代）
